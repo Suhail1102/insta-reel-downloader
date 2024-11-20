@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/insta-reel-downloader/static/css/main.0096d716.css",
+    "main.js": "/insta-reel-downloader/static/js/main.b83e3f02.js",
+    "index.html": "/insta-reel-downloader/index.html",
+    "main.0096d716.css.map": "/insta-reel-downloader/static/css/main.0096d716.css.map",
+    "main.b83e3f02.js.map": "/insta-reel-downloader/static/js/main.b83e3f02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0096d716.css",
+    "static/js/main.b83e3f02.js"
+  ]
+}
