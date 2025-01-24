@@ -24,7 +24,7 @@ function App() {
         filename: 'download'
       },
       headers: {
-        'x-rapidapi-key':'6b697e1e85msh6cdba57dcc6d5ffp1e92bfjsn5b12ec5a16fe',
+        'x-rapidapi-key':'966c0af1c3msh0567c9754befaf7p1fdba2jsn1cbd79ed28e8',
         'x-rapidapi-host': 'social-media-video-downloader.p.rapidapi.com'
       }
     };
